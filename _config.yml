@@ -24,9 +24,9 @@ repository               : "ilariala3/ilariala3.github.io"
 author:
   # Biographic information
   avatar           : "picture.jpg"
-  name             : "Ilaria Latersa"
+  name             : "Ilaria Laterza"
   pronouns         : "she/her"  
-  bio              : "I am currently a Postdoctoral Researcher at SLU, working on the DairyPaths project to investigate how dairy farming systems affect biodiversity and ecosystem services. Previously, I studied the effects of agricultural intensification on agricultural pest and beneficial arthropods in Mediterranean agroecosystems. My research also includes pollinator and natural-enemy ecology, and ecotoxicology, with a focus on pesticide effects on wild bees, spiders, and parasitoids"
+  bio              : "Postdoctoral Researcher at SLU studying biodiversity and ecosystem services in dairy farming systems. My research focuses on the impacts of agricultural practices and pesticides on beneficial arthropods, including pollinators, natural enemies, and other non-target organisms."
   location         : "Uppsala"
   employer         : "Swedish University of Agricultural Sciences – SLU"
   uri              : # URL
